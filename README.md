@@ -4,7 +4,7 @@
 **Blu33u3dD3v1l/Blu33u3dD3v1l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+  https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white
 - 🔭 I’m currently working on ... myself :)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

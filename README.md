@@ -26,5 +26,8 @@ Hi 👋 My name is Viktor Kachamakov
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Blu33u3dD3v1l/count.svg?exclude=Blu33u3dD3v1l" />
+  <img src="https://profile-counter.glitch.me/count.svg?exclude=Blu33u3dD3v1l" />
 </p>
+
+
+

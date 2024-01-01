@@ -24,7 +24,7 @@ Hi 👋 My name is Viktor Kachamakov
 
 <p align="left"> <a href="https://www.github.com/Blu33u3dD3v1l" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/viktor-kachamakov-bb3b98252" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>           
 
- <p align="center"> 
+<p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/MyGymWeb/count.svg?exclude=Blu33u3dD3v1l" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=green&label=Visitors&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2FBlu33u3dD3v1l%2Fcount%2F%3Fexclude%3DBlu33u3dD3v1l%26callback%3D" />
 </p>

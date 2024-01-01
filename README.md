@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 "Recent .NET graduate actively seeking opportunities in software development. Check out my projects and let's connect!"
 
 * 🌍  I'm based in Sofia
-* 🖥️  See my portfolio at [Portfolio](http://https://blu33u3dd3v1l.github.io/Portfolio/)
+* 🖥️  See my portfolio at [Portfolio](https://https://blu33u3dd3v1l.github.io/Portfolio/)
 * ✉️  You can contact me at [kachamakov@abv.bg](mailto:kachamakov@abv.bg)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on interesting projects

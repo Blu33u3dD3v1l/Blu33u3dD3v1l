@@ -26,5 +26,5 @@ Hi 👋 My name is Viktor Kachamakov
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://img.shields.io/badge/dynamic/json?color=green&label=Visitors&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2FBlu33u3dD3v1l%2Fcount%2F%3Fexclude%3DBlu33u3dD3v1l%26callback%3D" />
+  <img src="https://profile-counter.glitch.me/Blu33u3dD3v1l/count.svg?exclude=Blu33u3dD3v1l" />
 </p>

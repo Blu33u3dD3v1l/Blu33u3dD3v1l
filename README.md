@@ -9,7 +9,7 @@ Hi 👋 My name is Viktor Kachamakov
 * 🌍  I'm based in Sofia
 * 🖥️  See my portfolio at [Portfolio](https://blu33u3dd3v1l.github.io/Portfolio/)
 * ✉️  You can contact me at [kachamakov@abv.bg](mailto:kachamakov@abv.bg)
-* 🧠  I'm learning Angular
+* 🧠  I'm learning Angular at Software University 🚀
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills

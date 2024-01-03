@@ -7,7 +7,7 @@ Hi 👋 My name is Viktor Kachamakov
 "Recent .NET graduate actively seeking opportunities in software development. Check out my projects and let's connect!"
 
 * 🌍  I'm based in Sofia
-* 🖥️  See my portfolio at [Portfolio](https://blu33u3dd3v1l.github.io/Portfolio/) or one of my projects at [MyGymWeb](https://mygymweb.azurewebsites.net)
+* 🖥️  See my portfolio at [Portfolio](https://blu33u3dd3v1l.github.io/Portfolio/) and one of my projects at [MyGymWeb](https://mygymweb.azurewebsites.net)
 * ✉️  You can contact me at [kachamakov@abv.bg](mailto:kachamakov@abv.bg)
 * 🧠  I'm learning Angular at Software University 🚀
 * 🤝  I'm open to collaborating on interesting projects

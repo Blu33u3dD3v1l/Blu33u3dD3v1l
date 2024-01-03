@@ -4,7 +4,7 @@ Hi 👋 My name is Viktor Kachamakov
 Enthusiastic and dedicated software developer with a passion for C# programming and commitment to continuous learning.
 --------------
 
-"Recent .NET graduate actively seeking opportunities in software development. Check out my projects and let's connect!"
+Recent graduate C# Full-Stack Developer actively seeking opportunities in software development. Check out my projects, and let's connect!
 
 * 🌍  I'm based in Sofia
 * 🖥️  See my portfolio at [Portfolio](https://blu33u3dd3v1l.github.io/Portfolio/) and one of my projects at [MyGymWeb](https://mygymweb.azurewebsites.net)

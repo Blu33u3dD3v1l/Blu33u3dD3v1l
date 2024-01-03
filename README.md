@@ -1,7 +1,7 @@
 Hi 👋 My name is Viktor Kachamakov
 =========================================================================================================================================
 
-.NET Developer
+Enthusiastic and dedicated software developer with a passion for C# programming and commitment to continuous learning.
 --------------
 
 "Recent .NET graduate actively seeking opportunities in software development. Check out my projects and let's connect!"

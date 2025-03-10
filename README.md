@@ -2,6 +2,7 @@ Hi 👋 My name is Viktor Kachamakov
 =========================================================================================================================================
 
 Enthusiastic and dedicated software developer with a strong background in C# Web Development and a growing passion for AI and Machine Learning. I am committed to continuous learning and always eager to explore new technologies.
+
 --------------
 
 🚀 Currently: Expanding my expertise in AI and Machine Learning through the Upskill Program at SoftUni.

@@ -1,14 +1,19 @@
 Hi 👋 My name is Viktor Kachamakov
 =========================================================================================================================================
 
-Enthusiastic and dedicated software developer with a passion for C# programming and commitment to continuous learning.
+Enthusiastic and dedicated software developer with a strong background in C# Web Development and a growing passion for AI and Machine Learning. I am committed to continuous learning and always eager to explore new technologies.
 --------------
 
-Recent graduate C# Web Developer actively seeking opportunities in software development. Check out my projects, and let's connect!
+🚀 Currently: Expanding my expertise in AI and Machine Learning through the Upskill Program at SoftUni.
 
-* 🌍  I'm based in Sofia.
-* ✉️  You can contact me at [kachamakov@proton.me](mailto:kachamakov@proton.me)
-* 🤝  I'm open to collaborating on interesting projects.
+💡 Tech Stack: C#, .NET, ASP.NET Core, Python, Machine Learning.
+
+🤝 Open to: Collaborations on innovative projects and new opportunities in software development.
+
+📍 Based in: Sofia, Bulgaria.
+
+📫 Contact me: [kachamakov@proton.me](mailto:kachamakov@proton.me)
+
 
 ### Skills
 
